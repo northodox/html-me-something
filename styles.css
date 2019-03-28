@@ -1,16 +1,17 @@
 body {
     font-family: Arial, Helvetica, sans-serif;
-    text-shadow: -1px -1px #000,
-                1px -1px #000,
-                -1px 1px #000,
-                1px 1px #000;
-    color: rgb(124, 122, 245);
+    text-shadow: -1.5px -1.5px #000,
+                1.5px -1.5px #000,
+                -1.5px 1.5px #000,
+                1.5px 1.5px #000;
+    color: rgb(238, 225, 48);
     height: 100%;
     text-align: center;
     width: 100%;
     background-image: url("http://4.bp.blogspot.com/-5kmlAQ4P3RU/TmpHqWO-URI/AAAAAAAAAAQ/nfR5rWW2hvU/s1600/bat-backgrounds-1-709263.gif");
     background-repeat: repeat-x;
     background-position: bottom center;
+    background-attachment: local;
 }
 
 header {
@@ -26,4 +27,9 @@ h3 {
 p {
     font-family: Arial, Helvetica, sans-serif;
     font-size: 2em;
+}
+
+ol {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: left;
 }
