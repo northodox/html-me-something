@@ -1,15 +1,29 @@
 body {
     font-family: Arial, Helvetica, sans-serif;
+    text-shadow: -1px -1px #000,
+                1px -1px #000,
+                -1px 1px #000,
+                1px 1px #000;
+    color: rgb(124, 122, 245);
     height: 100%;
-    margin: ;
-    text-align: ;
+    text-align: center;
     width: 100%;
+    background-image: url("http://4.bp.blogspot.com/-5kmlAQ4P3RU/TmpHqWO-URI/AAAAAAAAAAQ/nfR5rWW2hvU/s1600/bat-backgrounds-1-709263.gif");
+    background-repeat: repeat-x;
+    background-position: bottom center;
 }
 
-h1 {
-    font-size: ;
+header {
+    font-size: .7em;
+    text-align: left;
 }
 
-h2 {
-    
+h3 {
+    font-size: 2em;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 2em;
 }
