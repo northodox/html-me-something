@@ -17,13 +17,15 @@ body {
 header {
     font-size: .7em;
     text-align: left;
-    color: blue;
     padding: 5px 0px 0px 5px;
 }
 
 h2{
-    font-size: 3em;
     color: brown;
+}
+
+.left {
+    color: blue;
 }
 
 article{
